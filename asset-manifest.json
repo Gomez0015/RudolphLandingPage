@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/RudolphLandingPage/static/css/main.d1ba33eb.css",
+    "main.css": "/RudolphLandingPage/static/css/main.2eaabbb4.css",
     "main.js": "/RudolphLandingPage/static/js/main.abea7aea.js",
     "static/media/trailer.mp4": "/RudolphLandingPage/static/media/trailer.dafd92c2707b58d4942f.mp4",
     "static/media/dashboard.jpg": "/RudolphLandingPage/static/media/dashboard.2325ee55869f11fdc73b.jpg",
     "static/media/rudolph.png": "/RudolphLandingPage/static/media/rudolph.f37e0dc8767acef33903.png",
     "index.html": "/RudolphLandingPage/index.html",
-    "main.d1ba33eb.css.map": "/RudolphLandingPage/static/css/main.d1ba33eb.css.map",
+    "main.2eaabbb4.css.map": "/RudolphLandingPage/static/css/main.2eaabbb4.css.map",
     "main.abea7aea.js.map": "/RudolphLandingPage/static/js/main.abea7aea.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1ba33eb.css",
+    "static/css/main.2eaabbb4.css",
     "static/js/main.abea7aea.js"
   ]
 }
